@@ -1,6 +1,6 @@
 {
   "name": "@codelenny/blade-interpolated-coffee",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Blade filter that allows interpolation inside CoffeeScript snippets.",
   "main": "interpolated-coffeescript.js",
   "scripts": {
