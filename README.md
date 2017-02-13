@@ -1,5 +1,8 @@
 # Interpolated [CoffeeScript][] Filter for [Blade][]
 
+[![npm (scoped)](https://img.shields.io/npm/v/@codelenny/blade-interpolated-coffee.svg)](https://www.npmjs.com/package/@codelenny/blade-interpolated-coffee)
+[![Build Status](https://travis-ci.org/CodeLenny/blade-interpolated-coffee.svg?branch=master)](https://travis-ci.org/CodeLenny/blade-interpolated-coffee)
+
 Why have one layer of variable insertion, when you could have twice the complexity?
 
 The regular `:coffeescript` filter for Blade keeps `#{}` as the standard CoffeeScript interpolation, but doesn't let you
