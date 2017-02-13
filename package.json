@@ -4,7 +4,8 @@
   "description": "A Blade filter that allows interpolation inside CoffeeScript snippets.",
   "main": "interpolated-coffeescript.js",
   "scripts": {
-    "test": "mocha --compilers coffee:coffee-script/register"
+    "test": "mocha --compilers coffee:coffee-script/register",
+    "build": "coffee --compile interpolated-coffeescript.coffee"
   },
   "repository": {
     "type": "git",
